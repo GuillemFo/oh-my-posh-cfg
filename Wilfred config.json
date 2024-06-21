@@ -1,5 +1,5 @@
 {
-//	"$schema": "pending",
+	"$schema": "https://raw.githubusercontent.com/GuillemFo/oh-my-posh-cfg/main/Wilfred%20config.json",
 	"blocks": [
 	  {
 		"alignment": "left",
