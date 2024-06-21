@@ -29,7 +29,7 @@
 			  "style": "folder"
 			},
 			"style": "powerline",
-			"template": " \uf07b\uea9c {{ .PWD }} ",
+			"template": " \uf07b {{ .PWD }} ",
 			"type": "path"
 		  },
 		  {
