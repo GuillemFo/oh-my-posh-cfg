@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/GuillemFo/oh-my-posh-cfg/main/Wilfred%20config.json",
-	"disable_notice": false,
+	"disable_notice": true,
 	"auto_upgrade": true,
 	"blocks": [
 	  {
